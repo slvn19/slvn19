@@ -1,12 +1,16 @@
 
-![Logo](https://sun9-10.userapi.com/impg/S6J5HNTy3cYg00QUc-kHU1y2xdrM0X1gTq6CMw/_nx7QLnMtPM.jpg?size=1792x630&quality=95&sign=36fdf35fd212ea0363d8320b21ccba76&type=album)
+<div align="center">
+  <img height="230" src="https://sun9-10.userapi.com/impg/S6J5HNTy3cYg00QUc-kHU1y2xdrM0X1gTq6CMw/_nx7QLnMtPM.jpg?size=1792x630&quality=95&sign=36fdf35fd212ea0363d8320b21ccba76&type=album"  />
+</div>
 
 
 # Hello! My name is Vyacheslav! 👋
 
 
 ## 🚀 About Me
-I'm a beginner QA that trying hard to find his first job! 
+I'm a beginner QA that trying hard to find his first job!
+
+👨‍💻 You can check some examples of my work here: https://drive.google.com/drive/folders/1WluIH-2sl8f-iRPdskM9e5mWeiBvVyfI?usp=drive_link 
 
 
 ## 🛠 Skills
@@ -23,5 +27,4 @@ I'm a beginner QA that trying hard to find his first job!
   <img src="https://www.svgrepo.com/show/184143/java.svg" title="java" alt="java" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" title="intellij idea" alt="intellij idea" width="40" height="40"/>&nbsp
 </div>
-
-
+ 
