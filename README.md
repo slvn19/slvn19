@@ -28,4 +28,12 @@ You can check some examples of my work here: https://drive.google.com/drive/fold
   <img src="https://www.svgrepo.com/show/184143/java.svg" title="java" alt="java" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" title="intellij idea" alt="intellij idea" width="40" height="40"/>&nbsp
 </div>
- 
+
+ ---
+
+ ### 📫 Links
+ <div id="badges">
+    <a href="https://t.me/slvn19" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
