@@ -4,13 +4,13 @@
 </div>
 
 
-# Hello! My name is Vyacheslav! 👋
+# Hello! My name is Vyacheslav!
 
 
-## 🚀 About Me
+## 👨‍💻  About Me
 I'm a beginner QA that trying hard to find his first job!
 
-👨‍💻 You can check some examples of my work here: https://drive.google.com/drive/folders/1WluIH-2sl8f-iRPdskM9e5mWeiBvVyfI?usp=drive_link 
+You can check some examples of my work here: https://drive.google.com/drive/folders/1WluIH-2sl8f-iRPdskM9e5mWeiBvVyfI?usp=drive_link 
 
 
 ## 🛠 Skills
