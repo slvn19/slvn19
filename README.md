@@ -10,7 +10,9 @@
 
 I'm a beginner QA that trying hard to find his first job!
 
-You can check some examples of my work here: https://drive.google.com/drive/folders/1WluIH-2sl8f-iRPdskM9e5mWeiBvVyfI?usp=drive_link 
+My Portfolio (in progress): https://github.com/slvn19/Portfolio/blob/main/README.md
+
+You also can check some examples of my work here: https://drive.google.com/drive/folders/1WluIH-2sl8f-iRPdskM9e5mWeiBvVyfI?usp=drive_link 
 
 ---
 
